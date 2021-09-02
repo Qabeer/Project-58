@@ -1,0 +1,84 @@
+body {
+  text-align: center;
+  background-color: #ec8b00;
+}
+
+#books {
+  height: 300px;
+}
+
+p {
+  margin-top: 40px;
+  font-size: 23px;
+  font-family: cursive;
+}
+
+.menu{
+  list-style:none;
+  font-family:sans-serif;
+  float:right;
+  top:10px;
+  right:30px;
+  cursor:pointer;
+  color:#603f83ff;
+  font-size:18px;
+  overflow:hidden;
+}
+
+.link:hover{
+  background-color:#c7d3d4ff;
+}
+
+.link{
+  background-color:pink;
+}
+
+#books{
+  margin-left: 200px;
+}
+
+#about,
+#favorite_books,
+#my_work,
+#inspiration,
+#contact {
+    margin-top: 60px;
+}
+
+.h1 {
+    color: #773a45;
+    font-size: 35px;
+}
+
+.h1_head {
+    color: #3c404b;
+    font-size: 45px;
+    text-align: center;
+}
+
+#about {
+    background-color: cyan;
+}
+
+#favorite_books {
+    background-color: magenta;
+}
+
+#my_work {
+    background-color: coral;
+}
+
+#inspiration {
+    background-color: darkseagreen;
+}
+
+#contact {
+    background-color: blueviolet;
+}
+
+img {
+    height: 300px;
+    width: auto;
+    margin-left: 100px;
+}
+
